@@ -1,0 +1,14 @@
+1e5
+0.1
+1e2
+100
+300
+370
+450
+#a_s 3e6 was
+#a_c
+#a_f
+#clip_feat1
+#clip_feat2
+#clip_feat3
+#clip_feat4

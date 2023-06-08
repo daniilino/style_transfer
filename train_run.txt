@@ -1,0 +1,2 @@
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py train --dataset C:\Users\dan\Desktop\style_transfer\datasets\rampage_dataset --style-image C:\Users\dan\Desktop\style_transfer\images\style-images\pumpkins.jpg --save-model-dir C:\Users\dan\Desktop\style_transfer\models\halloween --checkpoint-model-dir C:\Users\dan\Desktop\style_transfer\models\halloween --epochs 3 --cuda 1 --batch-size 8 --image-size 384 --checkpoint-interval 10 --lr 4e-4

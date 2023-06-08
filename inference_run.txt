@@ -1,0 +1,30 @@
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\candy.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\mosaic.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\rain_princess.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\udnie.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\creepy_24-10-2022.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\halloween_2.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\zdzislaw.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\x_stripes.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\x_pumpkin.pth --cuda 1
+
+cd C:\Users\dan\Desktop\style_transfer
+python neural_style/neural_style.py webcam --model models\extra\cosmo_stuff.pth --cuda 1
